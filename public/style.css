@@ -1,0 +1,9 @@
+body h1 {
+    background-color: brown;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    margin: 32px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
